@@ -1,0 +1,102 @@
+2023-03-14 13:27:09,263 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 13:27:09,263 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 13:27:09,263 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 13:28:20,207 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 13:28:20,211 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 13:28:20,211 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:09:23,566 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:09:23,566 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:09:23,566 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:09:59,054 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:09:59,054 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:09:59,055 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:12:55,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:12:55,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:12:55,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:19:27,050 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:19:27,050 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:19:27,050 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:19:44,131 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:19:44,131 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:19:44,131 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:22:50,144 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:22:50,145 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:22:50,145 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:23:01,249 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:23:01,249 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:23:01,250 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:23:28,928 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:23:28,929 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:23:28,929 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:25:13,573 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:25:13,573 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:25:13,573 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:31:13,708 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:31:13,708 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:31:13,708 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:33:49,491 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:33:49,491 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:33:49,491 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:33:56,072 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:33:56,073 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:33:56,073 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:35:19,284 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:35:19,284 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:35:19,284 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:36:43,222 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:36:43,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:36:43,223 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:37:18,040 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:37:18,040 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:37:18,040 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:38:15,306 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:38:15,306 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:38:15,307 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:38:27,208 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:38:27,208 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:38:27,208 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:39:16,494 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:39:16,494 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:39:16,494 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:40:10,350 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:40:10,350 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:40:10,350 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:43:06,701 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:43:06,701 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:43:06,701 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:43:15,880 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:43:15,881 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:43:15,881 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:53:24,664 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:53:24,664 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:53:24,664 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:54:33,533 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:54:33,533 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:54:33,533 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:54:56,638 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:54:56,638 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:54:56,638 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:55:01,775 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:55:01,776 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:55:01,776 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:55:25,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:55:25,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:55:25,762 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:55:30,676 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:55:30,676 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:55:30,677 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:56:07,418 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:56:07,418 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:56:07,418 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 14:58:42,131 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 14:58:42,132 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 14:58:42,132 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 15:00:04,060 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 15:00:04,060 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 15:00:04,060 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 15:01:27,679 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 15:01:27,679 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 15:01:27,679 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string
+2023-03-14 15:02:57,232 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The message must be a string
+2023-03-14 15:02:57,232 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key must be an string
+2023-03-14 15:02:57,232 - ERROR - crypto_app.vigenerecipher_algo - Error during the encryption of a message with the Vigenere cipher. The key cannot be an empty string

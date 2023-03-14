@@ -20,6 +20,10 @@ from crypto_app.aes_algo import AdvancedEncryptionStandard
 from crypto_app.md5_algo import MD5
 from crypto_app.sha_algo import SHA
 from crypto_app.caesarcipher_algo import CaesarCipher
+from crypto_app.vigenerecipher_algo import VigenereCipher
+from crypto_app.des_algo import DES
+from crypto_app.blowfish_algo import Blowfish
+from crypto_app.rsa_algo_v2 import RSAAlgo
 
 def test_enigma():
     """
@@ -73,13 +77,82 @@ def test_caesar_cipher():
     key = 5
     ciphertext = enigma_caesar.encrypt(plaintext, key)
     decryptedtext = enigma_caesar.decrypt(ciphertext, key)
-    print(ciphertext, decryptedtext)
     if plaintext == decryptedtext:
         print("CaesarCipher Test: ok, it's same!")
 
+def test_vigenere_cipher():
 
-if __name__ == "__main__":
-    test_aes()
-    test_md5()
-    test_sha()
-    test_caesar_cipher()
+    vigenere = VigenereCipher()
+
+    # Test encryption and decryption with a key of "secret"
+    message = "hello world"
+    key = "secret"
+    encrypted = vigenere.encrypt(message, key)
+    decrypted = vigenere.decrypt(encrypted, key)
+    assert decrypted == message, f"Expected decrypted message '{message}', but got '{decrypted}'"
+
+    # Test encryption and decryption with a key of "password"
+    message = "this is a secret message"
+    key = "password"
+    encrypted = vigenere.encrypt(message, key)
+    decrypted = vigenere.decrypt(encrypted, key)
+    assert decrypted == message, f"Expected decrypted message '{message}', but got '{decrypted}'"
+
+    # Test error handling for invalid inputs
+    assert not vigenere.encrypt(123), "Expected error message for invalid message input"
+    assert not vigenere.encrypt("hello", 123), "Expected error message for invalid key input"
+    assert not vigenere.encrypt("hello", ""), "Expected error message for empty key input"
+
+    print("VigenereCipher Test: All tests passed!")
+
+
+def test_des():
+    des = DES()
+
+    # Test encryption and decryption with valid inputs
+    message = "hello world"
+    key = "abcdefgh"
+    encrypted = des.encrypt(message, key)
+    decrypted = des.decrypt(encrypted, key)
+    assert decrypted == message, f"Expected decrypted message '{message}', but got '{decrypted}'"
+
+    # Test encryption and decryption with invalid inputs
+    message = 12345
+    key = "abcdefghijklmnop"
+    encrypted = des.encrypt(message, key)
+    decrypted = des.decrypt(encrypted, key)
+    assert decrypted == False, "Expected decryption to fail due to invalid message and key"
+
+    message = "hello world"
+    key = "abcdefghijklmnopqrstuvwx"
+    encrypted = des.encrypt(message, key)
+    decrypted = des.decrypt(encrypted, key)
+    assert decrypted == message
+
+    print("DES Test: All tests passed!")
+
+
+def test_blowfish():
+
+    message = "This is a test message"
+    key = "secretkey"
+
+    bf = Blowfish()
+
+    encrypted_message = bf.encrypt(message, key)
+    decrypted_message = bf.decrypt(encrypted_message, key)
+
+    assert decrypted_message == message
+
+    print("Blowfish Test: All tests passed!")
+
+
+def test_RSAAlgo():    
+    message = "Hello World!"
+    rsa_algo = RSAAlgo()
+    private_key, public_key = rsa_algo.generateKeysPair()
+    encrypted_message = rsa_algo.encrypt(message, public_key)
+    decrypted_message = rsa_algo.decrypt(encrypted_message, private_key)
+    assert decrypted_message == message
+    print("RSA Test: All tests passed!")
+
