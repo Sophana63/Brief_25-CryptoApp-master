@@ -5,16 +5,13 @@ par 'algo.py'. À noter que certaines classes n'ont pas de méthode
 decrypt, ou uniquement une méthode vide.
 
 Pour savoir quelles sont les entrées et/ou le format des clés attendus
-par ces différentes fonctions de cryptage/décryptage, vous pouvez lancer 
-l'application et lire les encadrés d'information à droite, et faire des 
+par ces différentes fonctions de cryptage/décryptage, vous pouvez lancer
+l'application et lire les encadrés d'information à droite, et faire des
 recherches.
 
-Pour lancer tous les tests contenus dans ce fichier, utilisez 
+Pour lancer tous les tests contenus dans ce fichier, utilisez
 la commande pytest <nom de ce script>
 """
-
-
-
 from crypto_app.enigmam3_algo import EnigmaM3
 from crypto_app.aes_algo import AdvancedEncryptionStandard
 from crypto_app.md5_algo import MD5
@@ -30,7 +27,6 @@ def test_enigma():
     Un exemple de fonction de test, ici avec le cryptage
     d'Enigma.
     """
-
     enigma = EnigmaM3()
     msg = "Message"
     key = [
@@ -53,7 +49,6 @@ def test_aes():
     decryptedtext = enigma_aes.decrypt(ciphertext, key)
     if plaintext == decryptedtext:
         print("AES Test: ok, it's same!")
-
 
 def test_md5():
     enigma_md5 = MD5()
@@ -83,7 +78,6 @@ def test_caesar_cipher():
 def test_vigenere_cipher():
 
     vigenere = VigenereCipher()
-
     # Test encryption and decryption with a key of "secret"
     message = "hello world"
     key = "secret"
@@ -104,7 +98,6 @@ def test_vigenere_cipher():
     assert not vigenere.encrypt("hello", ""), "Expected error message for empty key input"
 
     print("VigenereCipher Test: All tests passed!")
-
 
 def test_des():
     des = DES()
@@ -130,7 +123,6 @@ def test_des():
     assert decrypted == message
 
     print("DES Test: All tests passed!")
-
 
 def test_blowfish():
 
