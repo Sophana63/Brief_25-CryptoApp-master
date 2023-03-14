@@ -62,3 +62,11 @@
 2023-03-14 15:01:27,685 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
 2023-03-14 15:02:57,240 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
 2023-03-14 15:02:57,240 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-14 15:09:51,916 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 15:09:51,920 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-14 15:19:09,650 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 15:19:09,651 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-14 15:19:31,289 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 15:19:31,290 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-14 15:19:49,070 - ERROR - crypto_app.des_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-14 15:19:49,071 - ERROR - crypto_app.des_algo - Error during the decryption of a message with DES. The message must be a string
